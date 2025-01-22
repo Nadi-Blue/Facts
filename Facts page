@@ -48,63 +48,61 @@
     <h1>Marine Facts</h1>
 
     <div class="fact-container">
+        <h2>The Ocean's Size</h2>
         <p>The ocean covers more than 70% of the Earth's surface.</p>
     </div>
 
     <div class="fact-container">
+        <h2>Biodiversity</h2>
         <p>The ocean is home to millions of different species of plants and animals.</p>
     </div>
 
     <div class="fact-container">
+        <h2>Climate Regulation</h2>
         <p>The ocean plays a vital role in regulating the Earth's climate.</p>
     </div>
 
     <div class="fact-container">
+        <h2>Largest Animal</h2>
         <p>The ocean is home to the largest animal on Earth, the blue whale.</p>
     </div>
 
     <div class="fact-container">
+        <h2>Smallest Animal</h2>
         <p>The ocean is also home to the smallest animal on Earth, the plankton.</p>
     </div>
 
     <div class="fact-container">
+        <h2>Oxygen Source</h2>
         <p>The ocean is the largest source of oxygen on Earth.</p>
     </div>
 
     <div class="fact-container">
+        <h2>Coral Reefs</h2>
         <p>The ocean is home to coral reefs, which are some of the most diverse ecosystems on Earth.</p>
     </div>
 
     <div class="fact-container">
+        <h2>Marine Mammals</h2>
         <p>The ocean is home to many different types of whales, dolphins, and porpoises.</p>
     </div>
 
     <div class="fact-container">
+        <h2>Fish</h2>
         <p>The ocean is home to many different types of fish, including sharks, tuna, and salmon.</p>
     </div>
 
     <div class="fact-container">
+        <h2>Invertebrates</h2>
         <p>The ocean is home to many different types of invertebrates, such as jellyfish, squid, and octopuses.</p>
     </div>
 
     <div class="fact-container">
+        <h2>Marine Plants</h2>
         <p>The ocean is home to many different types of plants, such as seaweed and kelp.</p>
     </div>
 
     <div class="fact-container">
-        <p>The ocean is a vast and mysterious place, and there is still much we don't know about it.</p>
-    </div>
-
-    <div class="fact-container">
-        <p>The ocean is a valuable resource for humans, providing us with food, transportation, and recreation.</p>
-    </div>
-
-    <div class="fact-container">
-        <p>The ocean is facing many threats, such as pollution, overfishing, and climate change.</p>
-    </div>
-
-    <a href="index.html" class="back-button">Back to Home</a>
-
-</body>
-</html>
-                     
+        <h2>The Unknown</h2>
+        <p>The ocean is a vast and mysterious place, and there is still
+    
